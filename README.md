@@ -78,7 +78,7 @@ dashboard/dashboard.html
 
 ## 🤖 Integrasi dengan GitHub Actions / CI
 
-- Workflow dijadwalkan untuk berjalan setiap hari (jam 07:00 WIB)  
+- Workflow dijadwalkan untuk berjalan setiap hari (jam 08:00 WIB)  
 - Output: `dashboard/dashboard.html`, `dashboard/history.json`, `dashboard/history/YYYY-MM.json`  
 - Setelah selesai, workflow akan commit & push ke branch `main` dan melakukan deploy ke GitHub Pages  
 

@@ -2,622 +2,6 @@
   {
     "url": "https://www.bebeclub.co.id/artikel?topik=pencernaan",
     "strategy": "desktop",
-    "performance": 37,
-    "accessibility": 93,
-    "best_practices": 73,
-    "seo": 69,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/artikel?topik=pencernaan",
-    "strategy": "mobile",
-    "performance": 64,
-    "accessibility": 95,
-    "best_practices": 92,
-    "seo": 69,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://bebeclub.co.id/hebatnya-bebelac",
-    "strategy": "desktop",
-    "performance": 34,
-    "accessibility": 93,
-    "best_practices": 54,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://bebeclub.co.id/hebatnya-bebelac",
-    "strategy": "mobile",
-    "performance": 44,
-    "accessibility": 89,
-    "best_practices": 73,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/artikel",
-    "strategy": "desktop",
-    "performance": 51,
-    "accessibility": 93,
-    "best_practices": 73,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/artikel",
-    "strategy": "mobile",
-    "performance": 60,
-    "accessibility": 95,
-    "best_practices": 92,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/artikel?kategori=ibu",
-    "strategy": "desktop",
-    "performance": 61,
-    "accessibility": 93,
-    "best_practices": 73,
-    "seo": 69,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/artikel?kategori=ibu",
-    "strategy": "mobile",
-    "performance": 58,
-    "accessibility": 95,
-    "best_practices": 92,
-    "seo": 69,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/artikel/nutrisi/7-9-bulan/makanan-tinggi-serat-untuk-bayi-yang-mudah-disajikan",
-    "strategy": "desktop",
-    "performance": 39,
-    "accessibility": 86,
-    "best_practices": 73,
-    "seo": 92,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/artikel/nutrisi/7-9-bulan/makanan-tinggi-serat-untuk-bayi-yang-mudah-disajikan",
-    "strategy": "mobile",
-    "performance": 63,
-    "accessibility": 86,
-    "best_practices": 96,
-    "seo": 92,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/artikel/tag/pencernaan",
-    "strategy": "desktop",
-    "performance": 24,
-    "accessibility": 93,
-    "best_practices": 77,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/artikel/tag/pencernaan",
-    "strategy": "mobile",
-    "performance": 38,
-    "accessibility": 95,
-    "best_practices": 92,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/syarat-ketentuan",
-    "strategy": "desktop",
-    "performance": 45,
-    "accessibility": 89,
-    "best_practices": 77,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/syarat-ketentuan",
-    "strategy": "mobile",
-    "performance": 58,
-    "accessibility": 90,
-    "best_practices": 96,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/kebijakan-privasi",
-    "strategy": "desktop",
-    "performance": 56,
-    "accessibility": 87,
-    "best_practices": 77,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/kebijakan-privasi",
-    "strategy": "mobile",
-    "performance": 61,
-    "accessibility": 87,
-    "best_practices": 96,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/faq",
-    "strategy": "desktop",
-    "performance": 63,
-    "accessibility": 93,
-    "best_practices": 77,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/faq",
-    "strategy": "mobile",
-    "performance": 65,
-    "accessibility": 93,
-    "best_practices": 96,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/kontak-kami",
-    "strategy": "desktop",
-    "performance": 44,
-    "accessibility": 85,
-    "best_practices": 77,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/kontak-kami",
-    "strategy": "mobile",
-    "performance": 66,
-    "accessibility": 84,
-    "best_practices": 96,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/tim-penulis",
-    "strategy": "desktop",
-    "performance": 50,
-    "accessibility": 93,
-    "best_practices": 77,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/tim-penulis",
-    "strategy": "mobile",
-    "performance": 68,
-    "accessibility": 96,
-    "best_practices": 92,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/tim-ahli",
-    "strategy": "desktop",
-    "performance": 50,
-    "accessibility": 93,
-    "best_practices": 73,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/tim-ahli",
-    "strategy": "mobile",
-    "performance": 64,
-    "accessibility": 96,
-    "best_practices": 92,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T02:29:09Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/membership/registration",
-    "strategy": "desktop",
-    "performance": 22,
-    "accessibility": 86,
-    "best_practices": 73,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/membership/registration",
-    "strategy": "mobile",
-    "performance": 37,
-    "accessibility": 87,
-    "best_practices": 92,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/membership",
-    "strategy": "desktop",
-    "performance": 34,
-    "accessibility": 88,
-    "best_practices": 38,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/membership",
-    "strategy": "mobile",
-    "performance": 40,
-    "accessibility": 84,
-    "best_practices": 58,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/membership/login",
-    "strategy": "desktop",
-    "performance": 59,
-    "accessibility": 93,
-    "best_practices": 77,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/membership/login",
-    "strategy": "mobile",
-    "performance": 62,
-    "accessibility": 94,
-    "best_practices": 96,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/membership/login-otp",
-    "strategy": "desktop",
-    "performance": 57,
-    "accessibility": 91,
-    "best_practices": 77,
-    "seo": 92,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/membership/login-otp",
-    "strategy": "mobile",
-    "performance": 64,
-    "accessibility": 92,
-    "best_practices": 96,
-    "seo": 92,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/membership/forgot-password",
-    "strategy": "desktop",
-    "performance": 61,
-    "accessibility": 91,
-    "best_practices": 77,
-    "seo": 69,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/membership/forgot-password",
-    "strategy": "mobile",
-    "performance": 59,
-    "accessibility": 92,
-    "best_practices": 96,
-    "seo": 69,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id",
-    "strategy": "desktop",
-    "performance": 63,
-    "accessibility": 84,
-    "best_practices": 65,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id",
-    "strategy": "mobile",
-    "performance": 62,
-    "accessibility": 79,
-    "best_practices": 85,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/produk",
-    "strategy": "desktop",
-    "performance": 44,
-    "accessibility": 89,
-    "best_practices": 73,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/produk",
-    "strategy": "mobile",
-    "performance": 61,
-    "accessibility": 88,
-    "best_practices": 96,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/produk/bebelac-3",
-    "strategy": "desktop",
-    "performance": 77,
-    "accessibility": 88,
-    "best_practices": 62,
-    "seo": 92,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/produk/bebelac-3",
-    "strategy": "mobile",
-    "performance": 58,
-    "accessibility": 83,
-    "best_practices": 81,
-    "seo": 92,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/produk/bebelac-4",
-    "strategy": "desktop",
-    "performance": 48,
-    "accessibility": 88,
-    "best_practices": 65,
-    "seo": 92,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/produk/bebelac-4",
-    "strategy": "mobile",
-    "performance": 41,
-    "accessibility": 85,
-    "best_practices": 85,
-    "seo": 92,
-    "retry_attempts": 5,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/produk/bebelac-gold",
-    "strategy": "desktop",
-    "performance": 13,
-    "accessibility": 83,
-    "best_practices": 38,
-    "seo": 85,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/produk/bebelac-gold",
-    "strategy": "mobile",
-    "performance": 51,
-    "accessibility": 82,
-    "best_practices": 73,
-    "seo": 85,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/produk/bebelac-gold-soya",
-    "strategy": "desktop",
-    "performance": 25,
-    "accessibility": 80,
-    "best_practices": 38,
-    "seo": 85,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/produk/bebelac-gold-soya",
-    "strategy": "mobile",
-    "performance": 23,
-    "accessibility": 80,
-    "best_practices": 54,
-    "seo": 92,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/produk/susu-formula-cair",
-    "strategy": "desktop",
-    "performance": 37,
-    "accessibility": 84,
-    "best_practices": 62,
-    "seo": 92,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/produk/susu-formula-cair",
-    "strategy": "mobile",
-    "performance": 58,
-    "accessibility": 79,
-    "best_practices": 77,
-    "seo": 92,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/membership",
-    "strategy": "desktop",
-    "performance": 36,
-    "accessibility": 88,
-    "best_practices": 38,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/membership",
-    "strategy": "mobile",
-    "performance": 40,
-    "accessibility": 84,
-    "best_practices": 58,
-    "seo": 100,
-    "retry_attempts": 3,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/bebefriends",
-    "strategy": "desktop",
-    "performance": 46,
-    "accessibility": 93,
-    "best_practices": 77,
-    "seo": 92,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/bebefriends",
-    "strategy": "mobile",
-    "performance": 65,
-    "accessibility": 94,
-    "best_practices": 96,
-    "seo": 92,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/membership/upload-struk",
-    "strategy": "desktop",
-    "performance": 36,
-    "accessibility": 93,
-    "best_practices": 77,
-    "seo": 92,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/membership/upload-struk",
-    "strategy": "mobile",
-    "performance": 65,
-    "accessibility": 96,
-    "best_practices": 92,
-    "seo": 92,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/tools",
-    "strategy": "desktop",
-    "performance": 62,
-    "accessibility": 93,
-    "best_practices": 77,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/tools",
-    "strategy": "mobile",
-    "performance": 63,
-    "accessibility": 88,
-    "best_practices": 96,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/tools/poop-tracker",
-    "strategy": "desktop",
-    "performance": 29,
-    "accessibility": 83,
-    "best_practices": 73,
-    "seo": 85,
-    "retry_attempts": 3,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/tools/poop-tracker",
-    "strategy": "mobile",
-    "performance": 44,
-    "accessibility": 83,
-    "best_practices": 88,
-    "seo": 85,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/tools/bebe-journey",
-    "strategy": "desktop",
-    "performance": 65,
-    "accessibility": 86,
-    "best_practices": 77,
-    "seo": 85,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/tools/bebe-journey",
-    "strategy": "mobile",
-    "performance": 59,
-    "accessibility": 86,
-    "best_practices": 92,
-    "seo": 85,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/tools/bebestory",
-    "strategy": "desktop",
-    "performance": 54,
-    "accessibility": 87,
-    "best_practices": 54,
-    "seo": 92,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/tools/bebestory",
-    "strategy": "mobile",
-    "performance": 32,
-    "accessibility": 86,
-    "best_practices": 73,
-    "seo": 92,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/tools/allergy-checker",
-    "strategy": "desktop",
-    "performance": 44,
-    "accessibility": 91,
-    "best_practices": 77,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/tools/allergy-checker",
-    "strategy": "mobile",
-    "performance": 47,
-    "accessibility": 92,
-    "best_practices": 92,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/tools/growth-tracker",
-    "strategy": "desktop",
-    "performance": 55,
-    "accessibility": 86,
-    "best_practices": 77,
-    "seo": 85,
-    "retry_attempts": 3,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/tools/growth-tracker",
-    "strategy": "mobile",
-    "performance": 58,
-    "accessibility": 86,
-    "best_practices": 96,
-    "seo": 85,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/promo-event",
-    "strategy": "desktop",
-    "performance": 41,
-    "accessibility": 93,
-    "best_practices": 73,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/promo-event",
-    "strategy": "mobile",
-    "performance": 60,
-    "accessibility": 89,
-    "best_practices": 88,
-    "seo": 100,
-    "run_at_utc": "2025-10-29T14:32:14Z"
-  },
-  {
-    "url": "https://www.bebeclub.co.id/artikel?topik=pencernaan",
-    "strategy": "desktop",
     "performance": 41,
     "accessibility": 93,
     "best_practices": 73,
@@ -4539,5 +3923,619 @@
     "best_practices": 92,
     "seo": 100,
     "run_at_utc": "2025-11-04T01:25:21Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/membership/registration",
+    "strategy": "desktop",
+    "performance": 24,
+    "accessibility": 86,
+    "best_practices": 73,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/membership/registration",
+    "strategy": "mobile",
+    "performance": 39,
+    "accessibility": 87,
+    "best_practices": 88,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/membership",
+    "strategy": "desktop",
+    "performance": 37,
+    "accessibility": 88,
+    "best_practices": 38,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/membership",
+    "strategy": "mobile",
+    "performance": 41,
+    "accessibility": 84,
+    "best_practices": 58,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/membership/login",
+    "strategy": "desktop",
+    "performance": 61,
+    "accessibility": 93,
+    "best_practices": 77,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/membership/login",
+    "strategy": "mobile",
+    "performance": 57,
+    "accessibility": 94,
+    "best_practices": 96,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/membership/login-otp",
+    "strategy": "desktop",
+    "performance": 82,
+    "accessibility": 91,
+    "best_practices": 77,
+    "seo": 92,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/membership/login-otp",
+    "strategy": "mobile",
+    "performance": 59,
+    "accessibility": 92,
+    "best_practices": 96,
+    "seo": 92,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/membership/forgot-password",
+    "strategy": "desktop",
+    "performance": 47,
+    "accessibility": 91,
+    "best_practices": 77,
+    "seo": 69,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/membership/forgot-password",
+    "strategy": "mobile",
+    "performance": 62,
+    "accessibility": 92,
+    "best_practices": 96,
+    "seo": 69,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id",
+    "strategy": "desktop",
+    "performance": 44,
+    "accessibility": 84,
+    "best_practices": 65,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id",
+    "strategy": "mobile",
+    "performance": 58,
+    "accessibility": 79,
+    "best_practices": 85,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/produk",
+    "strategy": "desktop",
+    "performance": 55,
+    "accessibility": 89,
+    "best_practices": 73,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/produk",
+    "strategy": "mobile",
+    "performance": 64,
+    "accessibility": 88,
+    "best_practices": 96,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/produk/bebelac-3",
+    "strategy": "desktop",
+    "performance": 67,
+    "accessibility": 88,
+    "best_practices": 62,
+    "seo": 92,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/produk/bebelac-3",
+    "strategy": "mobile",
+    "performance": 59,
+    "accessibility": 83,
+    "best_practices": 81,
+    "seo": 92,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/produk/bebelac-4",
+    "strategy": "desktop",
+    "performance": 50,
+    "accessibility": 88,
+    "best_practices": 65,
+    "seo": 92,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/produk/bebelac-4",
+    "strategy": "mobile",
+    "performance": 60,
+    "accessibility": 85,
+    "best_practices": 85,
+    "seo": 92,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/produk/bebelac-gold",
+    "strategy": "desktop",
+    "performance": 13,
+    "accessibility": 83,
+    "best_practices": 38,
+    "seo": 85,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/produk/bebelac-gold",
+    "strategy": "mobile",
+    "performance": 28,
+    "accessibility": 82,
+    "best_practices": 62,
+    "seo": 85,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/produk/bebelac-gold-soya",
+    "strategy": "desktop",
+    "performance": 24,
+    "accessibility": 80,
+    "best_practices": 38,
+    "seo": 85,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/produk/bebelac-gold-soya",
+    "strategy": "mobile",
+    "performance": 27,
+    "accessibility": 80,
+    "best_practices": 54,
+    "seo": 92,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/produk/susu-formula-cair",
+    "strategy": "desktop",
+    "performance": 38,
+    "accessibility": 84,
+    "best_practices": 62,
+    "seo": 92,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/produk/susu-formula-cair",
+    "strategy": "mobile",
+    "performance": 60,
+    "accessibility": 79,
+    "best_practices": 77,
+    "seo": 92,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/membership",
+    "strategy": "desktop",
+    "performance": 35,
+    "accessibility": 88,
+    "best_practices": 38,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/membership",
+    "strategy": "mobile",
+    "performance": 47,
+    "accessibility": 84,
+    "best_practices": 58,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/bebefriends",
+    "strategy": "desktop",
+    "performance": 49,
+    "accessibility": 93,
+    "best_practices": 77,
+    "seo": 92,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/bebefriends",
+    "strategy": "mobile",
+    "performance": 67,
+    "accessibility": 94,
+    "best_practices": 96,
+    "seo": 92,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/membership/upload-struk",
+    "strategy": "desktop",
+    "performance": 44,
+    "accessibility": 93,
+    "best_practices": 77,
+    "seo": 92,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/membership/upload-struk",
+    "strategy": "mobile",
+    "performance": 64,
+    "accessibility": 96,
+    "best_practices": 92,
+    "seo": 92,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/tools",
+    "strategy": "desktop",
+    "performance": 46,
+    "accessibility": 93,
+    "best_practices": 77,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/tools",
+    "strategy": "mobile",
+    "performance": 68,
+    "accessibility": 88,
+    "best_practices": 96,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/tools/poop-tracker",
+    "strategy": "desktop",
+    "performance": 43,
+    "accessibility": 83,
+    "best_practices": 73,
+    "seo": 85,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/tools/poop-tracker",
+    "strategy": "mobile",
+    "performance": 62,
+    "accessibility": 83,
+    "best_practices": 88,
+    "seo": 85,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/tools/bebe-journey",
+    "strategy": "desktop",
+    "performance": 57,
+    "accessibility": 86,
+    "best_practices": 77,
+    "seo": 85,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/tools/bebe-journey",
+    "strategy": "mobile",
+    "performance": 57,
+    "accessibility": 86,
+    "best_practices": 92,
+    "seo": 85,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/tools/bebestory",
+    "strategy": "desktop",
+    "performance": 41,
+    "accessibility": 87,
+    "best_practices": 54,
+    "seo": 92,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/tools/bebestory",
+    "strategy": "mobile",
+    "performance": 47,
+    "accessibility": 86,
+    "best_practices": 73,
+    "seo": 92,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/tools/allergy-checker",
+    "strategy": "desktop",
+    "performance": 60,
+    "accessibility": 91,
+    "best_practices": 77,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/tools/allergy-checker",
+    "strategy": "mobile",
+    "performance": 63,
+    "accessibility": 92,
+    "best_practices": 92,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/tools/growth-tracker",
+    "strategy": "desktop",
+    "performance": 48,
+    "accessibility": 83,
+    "best_practices": 77,
+    "seo": 85,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/tools/growth-tracker",
+    "strategy": "mobile",
+    "performance": 63,
+    "accessibility": 86,
+    "best_practices": 96,
+    "seo": 85,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/promo-event",
+    "strategy": "desktop",
+    "performance": 54,
+    "accessibility": 93,
+    "best_practices": 73,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/promo-event",
+    "strategy": "mobile",
+    "performance": 59,
+    "accessibility": 89,
+    "best_practices": 88,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/artikel?topik=pencernaan",
+    "strategy": "desktop",
+    "performance": 51,
+    "accessibility": 93,
+    "best_practices": 73,
+    "seo": 69,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/artikel?topik=pencernaan",
+    "strategy": "mobile",
+    "performance": 59,
+    "accessibility": 95,
+    "best_practices": 92,
+    "seo": 69,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://bebeclub.co.id/hebatnya-bebelac",
+    "strategy": "desktop",
+    "performance": 32,
+    "accessibility": 93,
+    "best_practices": 54,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://bebeclub.co.id/hebatnya-bebelac",
+    "strategy": "mobile",
+    "performance": 46,
+    "accessibility": 89,
+    "best_practices": 73,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/artikel",
+    "strategy": "desktop",
+    "performance": 51,
+    "accessibility": 93,
+    "best_practices": 73,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/artikel",
+    "strategy": "mobile",
+    "performance": 64,
+    "accessibility": 95,
+    "best_practices": 92,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/artikel?kategori=ibu",
+    "strategy": "desktop",
+    "performance": 45,
+    "accessibility": 93,
+    "best_practices": 73,
+    "seo": 69,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/artikel?kategori=ibu",
+    "strategy": "mobile",
+    "performance": 57,
+    "accessibility": 95,
+    "best_practices": 92,
+    "seo": 69,
+    "retry_attempts": 2,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/artikel/nutrisi/7-9-bulan/makanan-tinggi-serat-untuk-bayi-yang-mudah-disajikan",
+    "strategy": "desktop",
+    "performance": 41,
+    "accessibility": 86,
+    "best_practices": 73,
+    "seo": 92,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/artikel/nutrisi/7-9-bulan/makanan-tinggi-serat-untuk-bayi-yang-mudah-disajikan",
+    "strategy": "mobile",
+    "performance": 63,
+    "accessibility": 86,
+    "best_practices": 96,
+    "seo": 92,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/artikel/tag/pencernaan",
+    "strategy": "desktop",
+    "performance": 38,
+    "accessibility": 93,
+    "best_practices": 77,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/artikel/tag/pencernaan",
+    "strategy": "mobile",
+    "performance": 34,
+    "accessibility": 95,
+    "best_practices": 96,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/syarat-ketentuan",
+    "strategy": "desktop",
+    "performance": 49,
+    "accessibility": 89,
+    "best_practices": 77,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/syarat-ketentuan",
+    "strategy": "mobile",
+    "performance": 58,
+    "accessibility": 90,
+    "best_practices": 96,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/kebijakan-privasi",
+    "strategy": "desktop",
+    "performance": 56,
+    "accessibility": 87,
+    "best_practices": 77,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/kebijakan-privasi",
+    "strategy": "mobile",
+    "performance": 65,
+    "accessibility": 87,
+    "best_practices": 96,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/faq",
+    "strategy": "desktop",
+    "performance": 50,
+    "accessibility": 93,
+    "best_practices": 77,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/faq",
+    "strategy": "mobile",
+    "performance": 68,
+    "accessibility": 93,
+    "best_practices": 96,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/kontak-kami",
+    "strategy": "desktop",
+    "performance": 62,
+    "accessibility": 85,
+    "best_practices": 77,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/kontak-kami",
+    "strategy": "mobile",
+    "performance": 62,
+    "accessibility": 84,
+    "best_practices": 96,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/tim-penulis",
+    "strategy": "desktop",
+    "performance": 65,
+    "accessibility": 93,
+    "best_practices": 77,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/tim-penulis",
+    "strategy": "mobile",
+    "performance": 64,
+    "accessibility": 96,
+    "best_practices": 92,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/tim-ahli",
+    "strategy": "desktop",
+    "performance": 48,
+    "accessibility": 93,
+    "best_practices": 73,
+    "seo": 100,
+    "run_at_utc": "2025-11-05T01:22:59Z"
+  },
+  {
+    "url": "https://www.bebeclub.co.id/tim-ahli",
+    "strategy": "mobile",
+    "performance": 56,
+    "accessibility": 96,
+    "best_practices": 92,
+    "seo": 100,
+    "retry_attempts": 5,
+    "run_at_utc": "2025-11-05T01:22:59Z"
   }
 ]

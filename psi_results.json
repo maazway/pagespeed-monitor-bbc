@@ -4,15 +4,16 @@
     {
       "url": "https://www.bebeclub.co.id/membership/registration",
       "strategy": "desktop",
-      "performance": 24,
+      "performance": 45,
       "accessibility": 86,
       "best_practices": 73,
-      "seo": 100
+      "seo": 100,
+      "retry_attempts": 3
     },
     {
       "url": "https://www.bebeclub.co.id/membership/registration",
       "strategy": "mobile",
-      "performance": 59,
+      "performance": 54,
       "accessibility": 87,
       "best_practices": 92,
       "seo": 100
@@ -20,7 +21,7 @@
     {
       "url": "https://www.bebeclub.co.id/membership",
       "strategy": "desktop",
-      "performance": 35,
+      "performance": 33,
       "accessibility": 85,
       "best_practices": 38,
       "seo": 100
@@ -28,7 +29,7 @@
     {
       "url": "https://www.bebeclub.co.id/membership",
       "strategy": "mobile",
-      "performance": 42,
+      "performance": 47,
       "accessibility": 80,
       "best_practices": 58,
       "seo": 100
@@ -36,7 +37,7 @@
     {
       "url": "https://www.bebeclub.co.id/membership/login",
       "strategy": "desktop",
-      "performance": 63,
+      "performance": 84,
       "accessibility": 93,
       "best_practices": 77,
       "seo": 100
@@ -44,7 +45,7 @@
     {
       "url": "https://www.bebeclub.co.id/membership/login",
       "strategy": "mobile",
-      "performance": 66,
+      "performance": 70,
       "accessibility": 94,
       "best_practices": 96,
       "seo": 100
@@ -52,7 +53,7 @@
     {
       "url": "https://www.bebeclub.co.id/membership/login-otp",
       "strategy": "desktop",
-      "performance": 44,
+      "performance": 55,
       "accessibility": 91,
       "best_practices": 77,
       "seo": 92
@@ -60,7 +61,7 @@
     {
       "url": "https://www.bebeclub.co.id/membership/login-otp",
       "strategy": "mobile",
-      "performance": 55,
+      "performance": 62,
       "accessibility": 92,
       "best_practices": 96,
       "seo": 92
@@ -76,7 +77,7 @@
     {
       "url": "https://www.bebeclub.co.id/membership/forgot-password",
       "strategy": "mobile",
-      "performance": 63,
+      "performance": 57,
       "accessibility": 92,
       "best_practices": 96,
       "seo": 69
@@ -84,7 +85,7 @@
     {
       "url": "https://www.bebeclub.co.id/",
       "strategy": "desktop",
-      "performance": 40,
+      "performance": 49,
       "accessibility": 84,
       "best_practices": 65,
       "seo": 100
@@ -100,7 +101,7 @@
     {
       "url": "https://www.bebeclub.co.id/produk",
       "strategy": "desktop",
-      "performance": 47,
+      "performance": 40,
       "accessibility": 89,
       "best_practices": 73,
       "seo": 100
@@ -108,7 +109,7 @@
     {
       "url": "https://www.bebeclub.co.id/produk",
       "strategy": "mobile",
-      "performance": 64,
+      "performance": 62,
       "accessibility": 88,
       "best_practices": 96,
       "seo": 100
@@ -116,7 +117,7 @@
     {
       "url": "https://www.bebeclub.co.id/produk/bebelac-3",
       "strategy": "desktop",
-      "performance": 56,
+      "performance": 53,
       "accessibility": 88,
       "best_practices": 62,
       "seo": 92
@@ -124,7 +125,7 @@
     {
       "url": "https://www.bebeclub.co.id/produk/bebelac-3",
       "strategy": "mobile",
-      "performance": 62,
+      "performance": 58,
       "accessibility": 83,
       "best_practices": 81,
       "seo": 92
@@ -132,7 +133,7 @@
     {
       "url": "https://www.bebeclub.co.id/produk/bebelac-4",
       "strategy": "desktop",
-      "performance": 54,
+      "performance": 48,
       "accessibility": 88,
       "best_practices": 65,
       "seo": 92
@@ -140,7 +141,7 @@
     {
       "url": "https://www.bebeclub.co.id/produk/bebelac-4",
       "strategy": "mobile",
-      "performance": 47,
+      "performance": 44,
       "accessibility": 85,
       "best_practices": 85,
       "seo": 92
@@ -156,7 +157,7 @@
     {
       "url": "https://www.bebeclub.co.id/produk/bebelac-gold",
       "strategy": "mobile",
-      "performance": 39,
+      "performance": 29,
       "accessibility": 82,
       "best_practices": 62,
       "seo": 85
@@ -164,7 +165,7 @@
     {
       "url": "https://www.bebeclub.co.id/produk/bebelac-gold-soya",
       "strategy": "desktop",
-      "performance": 26,
+      "performance": 37,
       "accessibility": 80,
       "best_practices": 38,
       "seo": 85
@@ -172,7 +173,7 @@
     {
       "url": "https://www.bebeclub.co.id/produk/bebelac-gold-soya",
       "strategy": "mobile",
-      "performance": 27,
+      "performance": 28,
       "accessibility": 80,
       "best_practices": 54,
       "seo": 92
@@ -180,7 +181,7 @@
     {
       "url": "https://www.bebeclub.co.id/produk/susu-formula-cair",
       "strategy": "desktop",
-      "performance": 37,
+      "performance": 40,
       "accessibility": 84,
       "best_practices": 62,
       "seo": 92
@@ -196,7 +197,7 @@
     {
       "url": "https://www.bebeclub.co.id/membership",
       "strategy": "desktop",
-      "performance": 34,
+      "performance": 35,
       "accessibility": 85,
       "best_practices": 38,
       "seo": 100
@@ -204,7 +205,7 @@
     {
       "url": "https://www.bebeclub.co.id/membership",
       "strategy": "mobile",
-      "performance": 42,
+      "performance": 51,
       "accessibility": 80,
       "best_practices": 58,
       "seo": 100
@@ -212,7 +213,7 @@
     {
       "url": "https://www.bebeclub.co.id/bebefriends",
       "strategy": "desktop",
-      "performance": 60,
+      "performance": 74,
       "accessibility": 93,
       "best_practices": 77,
       "seo": 92
@@ -220,7 +221,7 @@
     {
       "url": "https://www.bebeclub.co.id/bebefriends",
       "strategy": "mobile",
-      "performance": 64,
+      "performance": 63,
       "accessibility": 94,
       "best_practices": 96,
       "seo": 92
@@ -228,7 +229,7 @@
     {
       "url": "https://www.bebeclub.co.id/membership/upload-struk",
       "strategy": "desktop",
-      "performance": 45,
+      "performance": 41,
       "accessibility": 93,
       "best_practices": 77,
       "seo": 92
@@ -236,7 +237,7 @@
     {
       "url": "https://www.bebeclub.co.id/membership/upload-struk",
       "strategy": "mobile",
-      "performance": 63,
+      "performance": 58,
       "accessibility": 96,
       "best_practices": 92,
       "seo": 92
@@ -244,7 +245,7 @@
     {
       "url": "https://www.bebeclub.co.id/tools",
       "strategy": "desktop",
-      "performance": 52,
+      "performance": 41,
       "accessibility": 93,
       "best_practices": 77,
       "seo": 100
@@ -252,7 +253,7 @@
     {
       "url": "https://www.bebeclub.co.id/tools",
       "strategy": "mobile",
-      "performance": 63,
+      "performance": 64,
       "accessibility": 88,
       "best_practices": 96,
       "seo": 100
@@ -260,7 +261,7 @@
     {
       "url": "https://www.bebeclub.co.id/tools/poop-tracker",
       "strategy": "desktop",
-      "performance": 67,
+      "performance": 59,
       "accessibility": 83,
       "best_practices": 73,
       "seo": 85
@@ -268,16 +269,15 @@
     {
       "url": "https://www.bebeclub.co.id/tools/poop-tracker",
       "strategy": "mobile",
-      "performance": 60,
+      "performance": 61,
       "accessibility": 83,
       "best_practices": 88,
-      "seo": 85,
-      "retry_attempts": 3
+      "seo": 85
     },
     {
       "url": "https://www.bebeclub.co.id/tools/bebe-journey",
       "strategy": "desktop",
-      "performance": 58,
+      "performance": 27,
       "accessibility": 86,
       "best_practices": 77,
       "seo": 85
@@ -293,7 +293,7 @@
     {
       "url": "https://www.bebeclub.co.id/tools/bebestory",
       "strategy": "desktop",
-      "performance": 49,
+      "performance": 31,
       "accessibility": 87,
       "best_practices": 54,
       "seo": 92
@@ -301,7 +301,7 @@
     {
       "url": "https://www.bebeclub.co.id/tools/bebestory",
       "strategy": "mobile",
-      "performance": 56,
+      "performance": 51,
       "accessibility": 86,
       "best_practices": 73,
       "seo": 92
@@ -309,7 +309,7 @@
     {
       "url": "https://www.bebeclub.co.id/tools/allergy-checker",
       "strategy": "desktop",
-      "performance": 63,
+      "performance": 64,
       "accessibility": 91,
       "best_practices": 77,
       "seo": 100
@@ -317,7 +317,7 @@
     {
       "url": "https://www.bebeclub.co.id/tools/allergy-checker",
       "strategy": "mobile",
-      "performance": 48,
+      "performance": 45,
       "accessibility": 92,
       "best_practices": 92,
       "seo": 100
@@ -325,7 +325,7 @@
     {
       "url": "https://www.bebeclub.co.id/tools/growth-tracker",
       "strategy": "desktop",
-      "performance": 58,
+      "performance": 40,
       "accessibility": 86,
       "best_practices": 77,
       "seo": 85
@@ -333,7 +333,7 @@
     {
       "url": "https://www.bebeclub.co.id/tools/growth-tracker",
       "strategy": "mobile",
-      "performance": 62,
+      "performance": 63,
       "accessibility": 86,
       "best_practices": 96,
       "seo": 85
@@ -341,7 +341,7 @@
     {
       "url": "https://www.bebeclub.co.id/promo-event",
       "strategy": "desktop",
-      "performance": 37,
+      "performance": 48,
       "accessibility": 93,
       "best_practices": 73,
       "seo": 100
@@ -349,7 +349,7 @@
     {
       "url": "https://www.bebeclub.co.id/promo-event",
       "strategy": "mobile",
-      "performance": 63,
+      "performance": 59,
       "accessibility": 89,
       "best_practices": 88,
       "seo": 100
@@ -365,7 +365,7 @@
     {
       "url": "https://www.bebeclub.co.id/artikel?topik=pencernaan",
       "strategy": "mobile",
-      "performance": 59,
+      "performance": 60,
       "accessibility": 95,
       "best_practices": 92,
       "seo": 69
@@ -373,7 +373,7 @@
     {
       "url": "https://bebeclub.co.id/hebatnya-bebelac",
       "strategy": "desktop",
-      "performance": 36,
+      "performance": 33,
       "accessibility": 93,
       "best_practices": 54,
       "seo": 100
@@ -381,7 +381,7 @@
     {
       "url": "https://bebeclub.co.id/hebatnya-bebelac",
       "strategy": "mobile",
-      "performance": 53,
+      "performance": 35,
       "accessibility": 89,
       "best_practices": 73,
       "seo": 100
@@ -389,7 +389,7 @@
     {
       "url": "https://www.bebeclub.co.id/artikel",
       "strategy": "desktop",
-      "performance": 39,
+      "performance": 58,
       "accessibility": 93,
       "best_practices": 73,
       "seo": 100
@@ -397,7 +397,7 @@
     {
       "url": "https://www.bebeclub.co.id/artikel",
       "strategy": "mobile",
-      "performance": 60,
+      "performance": 61,
       "accessibility": 95,
       "best_practices": 92,
       "seo": 100
@@ -405,7 +405,7 @@
     {
       "url": "https://www.bebeclub.co.id/artikel?kategori=ibu",
       "strategy": "desktop",
-      "performance": 49,
+      "performance": 57,
       "accessibility": 93,
       "best_practices": 73,
       "seo": 69
@@ -413,7 +413,7 @@
     {
       "url": "https://www.bebeclub.co.id/artikel?kategori=ibu",
       "strategy": "mobile",
-      "performance": 60,
+      "performance": 59,
       "accessibility": 95,
       "best_practices": 92,
       "seo": 69
@@ -421,7 +421,7 @@
     {
       "url": "https://www.bebeclub.co.id/artikel/nutrisi/7-9-bulan/makanan-tinggi-serat-untuk-bayi-yang-mudah-disajikan",
       "strategy": "desktop",
-      "performance": 41,
+      "performance": 40,
       "accessibility": 86,
       "best_practices": 73,
       "seo": 92
@@ -437,7 +437,7 @@
     {
       "url": "https://www.bebeclub.co.id/artikel/tag/pencernaan",
       "strategy": "desktop",
-      "performance": 25,
+      "performance": 20,
       "accessibility": 93,
       "best_practices": 77,
       "seo": 100
@@ -445,7 +445,7 @@
     {
       "url": "https://www.bebeclub.co.id/artikel/tag/pencernaan",
       "strategy": "mobile",
-      "performance": 38,
+      "performance": 35,
       "accessibility": 95,
       "best_practices": 92,
       "seo": 100
@@ -453,7 +453,7 @@
     {
       "url": "https://www.bebeclub.co.id/syarat-ketentuan",
       "strategy": "desktop",
-      "performance": 55,
+      "performance": 60,
       "accessibility": 89,
       "best_practices": 77,
       "seo": 100
@@ -461,7 +461,7 @@
     {
       "url": "https://www.bebeclub.co.id/syarat-ketentuan",
       "strategy": "mobile",
-      "performance": 60,
+      "performance": 57,
       "accessibility": 90,
       "best_practices": 96,
       "seo": 100
@@ -469,7 +469,7 @@
     {
       "url": "https://www.bebeclub.co.id/kebijakan-privasi",
       "strategy": "desktop",
-      "performance": 56,
+      "performance": 72,
       "accessibility": 87,
       "best_practices": 77,
       "seo": 100
@@ -477,7 +477,7 @@
     {
       "url": "https://www.bebeclub.co.id/kebijakan-privasi",
       "strategy": "mobile",
-      "performance": 67,
+      "performance": 64,
       "accessibility": 87,
       "best_practices": 96,
       "seo": 100
@@ -485,7 +485,7 @@
     {
       "url": "https://www.bebeclub.co.id/faq",
       "strategy": "desktop",
-      "performance": 64,
+      "performance": 55,
       "accessibility": 93,
       "best_practices": 77,
       "seo": 100
@@ -493,7 +493,7 @@
     {
       "url": "https://www.bebeclub.co.id/faq",
       "strategy": "mobile",
-      "performance": 68,
+      "performance": 67,
       "accessibility": 93,
       "best_practices": 96,
       "seo": 100
@@ -501,7 +501,7 @@
     {
       "url": "https://www.bebeclub.co.id/kontak-kami",
       "strategy": "desktop",
-      "performance": 62,
+      "performance": 52,
       "accessibility": 85,
       "best_practices": 77,
       "seo": 100
@@ -509,7 +509,7 @@
     {
       "url": "https://www.bebeclub.co.id/kontak-kami",
       "strategy": "mobile",
-      "performance": 61,
+      "performance": 71,
       "accessibility": 84,
       "best_practices": 96,
       "seo": 100
@@ -517,7 +517,7 @@
     {
       "url": "https://www.bebeclub.co.id/tim-penulis",
       "strategy": "desktop",
-      "performance": 36,
+      "performance": 63,
       "accessibility": 93,
       "best_practices": 77,
       "seo": 100
@@ -525,7 +525,7 @@
     {
       "url": "https://www.bebeclub.co.id/tim-penulis",
       "strategy": "mobile",
-      "performance": 69,
+      "performance": 66,
       "accessibility": 96,
       "best_practices": 92,
       "seo": 100
@@ -533,7 +533,7 @@
     {
       "url": "https://www.bebeclub.co.id/tim-ahli",
       "strategy": "desktop",
-      "performance": 47,
+      "performance": 50,
       "accessibility": 93,
       "best_practices": 73,
       "seo": 100
@@ -541,7 +541,7 @@
     {
       "url": "https://www.bebeclub.co.id/tim-ahli",
       "strategy": "mobile",
-      "performance": 63,
+      "performance": 58,
       "accessibility": 96,
       "best_practices": 92,
       "seo": 100
